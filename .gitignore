@@ -1,0 +1,47 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+data/
+VIT/
+pretrained/
+runs/
+outputs/
+multi_defense_runs/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.log
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Datasets
+data/
+
+# Experiment outputs
+runs/
+outputs/
+logs/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Sensitive files
+.env
+.env.*
+*.pem
+*.key
+
+# System files
+.DS_Store
+.vscode/
+.idea/

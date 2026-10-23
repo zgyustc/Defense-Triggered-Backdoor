@@ -1,0 +1,11 @@
+{
+  "lambda_meta_B": 1.0,
+  "defense_num_noise_samples": 3,
+  "a_pool_coverage": 0.8,
+  "a_pool_max_batches": 32,
+  "a_pool_sample_ratio_min": 0.05,
+  "a_pool_sample_ratio_max": 0.95,
+  "scap_topk_ratio": 0.2,
+  "defense_noise_std": 0.003,
+  "lambda_serial": 0.5
+}

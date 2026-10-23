@@ -1,0 +1,8 @@
+# Declared compatible starting environment; not an exported or tested environment.
+# Python 3.10/3.11. Install the matching CUDA/CPU PyTorch build for your machine.
+torch==2.4.1
+torchvision==0.19.1
+numpy==1.26.4
+Pillow==10.4.0
+timm==1.0.9
+safetensors==0.4.5
